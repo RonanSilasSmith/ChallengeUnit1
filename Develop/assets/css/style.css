@@ -96,7 +96,6 @@ p {
     color: #ffffff;
     margin-bottom: 32px;
 }
-
 /**.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -214,7 +213,7 @@ p {
     max-height: 200px;
 }
 
-.benefits h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
