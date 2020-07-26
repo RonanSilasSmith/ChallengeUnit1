@@ -1,13 +1,16 @@
+/**Alters all the css on the page**/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/**sets color of the body**/
 body {
     background-color: #d9dcd6;
 }
 
+/**start header modification**/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +43,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/**end header modification**/
+
 
 a {
     color: #ffffff;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/**Defines floating object elements**/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +81,7 @@ p {
     margin-left: 20px;
 }
 
+/**benefit section**/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +140,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/**end benefits**/
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,6 +170,7 @@ p {
     color: #ffffff;
 }
 
+/**merge these later**/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +183,7 @@ p {
     max-height: 200px;
 }
 
+/**merge later**/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +199,8 @@ p {
     font-size: 36px;
 }
 
+
+/**footer CSS**/
 .footer {
     padding: 30px;
     clear: both;
